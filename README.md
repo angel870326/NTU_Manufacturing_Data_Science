@@ -7,6 +7,10 @@
 
 ## Convert google colab jupyter notebook (.ipynb) to HTML
 ```
+from google.colab import drive
+drive.mount("/content/gdrive")
+```
+```
 %%shell
 jupyter nbconvert --to html ///content/gdrive/MyDrive/....../MDS_Assignment1.ipynb
 ```
