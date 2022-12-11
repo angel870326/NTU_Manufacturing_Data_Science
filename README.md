@@ -8,7 +8,7 @@
 |Assignment 4|1. Data Imbalance Problem<br/>2. Metaheuristic Algorithms<br/>3. Markov Decision Process<br/>|[Tabu Search](https://medium.com/swlh/tabu-search-in-python-3199c44d44f1)|
 
 
-Tabu Search
+
 
 ## Convert google colab jupyter notebook (.ipynb) to HTML
 ```
